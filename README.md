@@ -16,5 +16,14 @@ Excel template for an 11-week base-building running plan.
 
 ## Usage
 1. Open in Excel.
-2. Change the start date on Start Here. Do not overwrite the date column on Daily Plan.
-3. Log runs in the yellow columns on Daily Plan.
+2. Change the start date on the `Start Here` tab. 
+
+    ![Start Here tab](screenshots/start-here-tab.png)
+
+3. Log runs in the yellow columns on the `Daily Plan` tab. Do not overwrite the dates in the Date column
+
+    ![Daily Plan tab](screenshots/daily-plan-tab.png)
+
+4. Use the `Week Grid` tab for a calendar view of the whole plan.
+
+    ![Week Grid tab](screenshots/week-grid-tab.png)
